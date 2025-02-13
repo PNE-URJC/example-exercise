@@ -1,0 +1,4 @@
+Federico García Lorca;Calle Escritores, 69;28080;Madrid;España;612345678
+books:The Odissey;The Iliad;
+cds:Smeels Like Teen Spirit;The Wall;
+maps:Spain;Italy
